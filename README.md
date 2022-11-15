@@ -1,2 +1,2 @@
 # CodeWar-C
-C piscine - 2020/2021
+C piscine - 2020
